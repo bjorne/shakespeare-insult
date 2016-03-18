@@ -2,7 +2,7 @@
 
 Use this [node](http://nodejs.org) library to insult yourself, friends and colleagues. Install using
 
-    $ npm install insult
+    $ npm install shakespeare-insult
 
 Then fire away
 
